@@ -1,2 +1,7 @@
 D:\Miri MASTER\restante\1. Medii si platforme de dezvoltare avansate(ogrean)\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\bin\Debug\Proiect_MPDA.exe.config
 C:\Repository\Medii_si_platforme_STIA\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\bin\Debug\Proiect_MPDA.exe.config
+C:\Repository\Medii_si_platforme_STIA\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\obj\Debug\Proiect_MPDA.csprojResolveAssemblyReference.cache
+C:\Repository\Medii_si_platforme_STIA\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\bin\Debug\Proiect_MPDA.exe
+C:\Repository\Medii_si_platforme_STIA\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\bin\Debug\Proiect_MPDA.pdb
+C:\Repository\Medii_si_platforme_STIA\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\obj\Debug\Proiect_MPDA.exe
+C:\Repository\Medii_si_platforme_STIA\Proiect_MPDA\Proiect_MPDA\Proiect_MPDA\obj\Debug\Proiect_MPDA.pdb
