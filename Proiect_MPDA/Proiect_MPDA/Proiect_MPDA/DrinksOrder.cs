@@ -22,7 +22,7 @@ namespace Program
         }
 
         /// <summary>
-        /// Returnn flavors
+        /// Returneaza aromele
         /// </summary>
         public void DisplayCalories()
         {

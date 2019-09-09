@@ -36,7 +36,7 @@ namespace Program
                 restaurant.Update(this);
             }
 
-            Console.WriteLine("");
+            Console.WriteLine("Next Drinks:");
         }
 
         public int CaloriesPerDrink
@@ -64,7 +64,7 @@ namespace Program
     }
 
     /// <summary>
-    /// Observer interface
+
     /// </summary>
     interface IRestaurant
     {
@@ -87,11 +87,8 @@ namespace Program
 
         public void Update(Drinks drink)
         {
-            Console.WriteLine("Notified {0} of {1}'s " + " calories : " + drink.CaloriesPerDrink + "", _name, drink.GetType().Name, drink.CaloriesPerDrink);
-            if(drink.CaloriesPerDrink == _purchaseThreshold)
-            {
-                Console.WriteLine(_name + " wants to buy a " + drink.GetType().Name + "!");
-            }
+            Console.WriteLine("Restaurant's {0} = {1}'s " + " calories : " + drink.CaloriesPerDrink + "", _name, drink.GetType().Name, drink.CaloriesPerDrink);
+          
         }
     }
 }
