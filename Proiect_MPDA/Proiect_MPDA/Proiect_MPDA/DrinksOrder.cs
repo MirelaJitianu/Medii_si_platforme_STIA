@@ -22,7 +22,7 @@ namespace Program
         }
 
         /// <summary>
-        /// Returneaza aromele
+        /// Return flavors
         /// </summary>
         public void DisplayCalories()
         {
@@ -43,9 +43,7 @@ namespace Program
         public Cola(int calories) : base(calories) { }
     }
 
-    /// <summary>
-    /// Leaf class
-    /// </summary>
+
     public class LemonLime : SoftDrink
     {
         public LemonLime(int calories) : base(calories) { }
